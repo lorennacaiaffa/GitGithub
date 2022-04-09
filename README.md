@@ -1,5 +1,11 @@
 
 ![Logo do GitHub](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png)
+
+
+[Bem-vindo](#bem-vindoa-ao-curso-git-e-github) |
+[Módulos](#módulos) |
+[Minhas redes](#minhas-redes-sociais-) |
+[Exemplo de script](#exemplo-de-uso-de-script)
 # Bem-vindo(a) ao curso Git e Github
 _Nesse curso eu aprendi a dominar o_ **Git** e **Github** _do zero ao profissional!_
 
