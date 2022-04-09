@@ -13,3 +13,5 @@ _Nesse curso eu aprendi a dominar o_ **Git** e **Github** _do zero ao profission
 [Instagram](https://www.instagram.com/ladycff)
 
 [Linkedin](https://www.linkedin.com/in/lorenna-caiaffa-31a6b022a/)
+
+>LORENNA DE OLIVEIRA BARBOSA CAIAFFA (BLOCKQUOTE) 
