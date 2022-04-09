@@ -24,7 +24,7 @@ _Nesse curso eu aprendi a dominar o_ **Git** e **Github** _do zero ao profission
 
 
 
-**Exemplo de uso de Script**
+### Exemplo de uso de Script
 
 ```js
 function showname(name){
