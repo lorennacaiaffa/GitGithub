@@ -1,5 +1,5 @@
 
-![Logo do GitHub](https://w7.pngwing.com/pngs/266/559/png-transparent-cat-stencil-social-media-github-computer-icons-logo-github-mammal-cat-like-mammal-carnivoran.png)
+![Logo do GitHub](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png)
 # Bem-vindo(a) ao curso Git e Github
 _Nesse curso eu aprendi a dominar o_ **Git** e **Github** _do zero ao profissional!_
 
