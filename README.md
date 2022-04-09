@@ -31,3 +31,10 @@ function showname(name){
     return "Bem vindo: " + name;
 }
 ```
+
+Propiedades | Descrição
+----------- |----------
+name | Para informar o nome do usuário
+size | Para definir o tamanho do campo
+background | Cor de Fundo da área em HEX
+onPress | Função chamada quando clicar no botão
