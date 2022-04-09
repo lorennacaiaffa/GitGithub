@@ -14,4 +14,14 @@ _Nesse curso eu aprendi a dominar o_ **Git** e **Github** _do zero ao profission
 
 [Linkedin](https://www.linkedin.com/in/lorenna-caiaffa-31a6b022a/)
 
->LORENNA DE OLIVEIRA BARBOSA CAIAFFA (BLOCKQUOTE) 
+>LORENNA DE OLIVEIRA BARBOSA CAIAFFA (BLOCKQUOTE)
+
+
+
+**Exemplo de uso de Script**
+
+```js
+function showname(name){
+    return "Bem vindo: " + name;
+}
+```
